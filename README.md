@@ -4,7 +4,3 @@
 
 ---
 **現在開発中のプロジェクト**
-
-[![ゆめぅさば](https://i.imgur.com/PC6a6jJ.png)](https://yumeusaba.com/)
-
-スタッフ、探してます。
